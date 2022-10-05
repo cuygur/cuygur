@@ -1,6 +1,3 @@
-<img src="" align="left" style="width: 100%" />  
-  
-
 ### <div align="center">I'm Cihan, a freelance frontend developer based in Istanbul 👨‍💻</div>  
   
 
@@ -71,28 +68,4 @@
 
 <br/>  
 
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
