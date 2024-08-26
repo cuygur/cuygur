@@ -1,10 +1,10 @@
 ### <div align="center">I'm Cihan, web3 business developer at Castrum Istanbul 👨‍💻 </div>  
 
-  <div align="center">I'm always open to discussing new technologies, potential collaborations, or any innovative ideas. 
-  Let's connect and work together to create a better digital future.
+  <div align="center">I'm always open to discussing and potential collaborations
   </div>  
-
-  <div align="center"> To reach me and for my links visit: https://bento.me/cihanuygur 
+  <div align="center">Let's connect and work together to create a better digital future!
+  </div>
+  <div align="center">To reach me and for my links visit: https://bento.me/cihanuygur 
   </div>
   
 <br/>  
