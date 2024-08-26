@@ -1,7 +1,8 @@
-### <div align="center">I'm Cihan, a freelance frontend developer based in Istanbul 👨‍💻</div>  
-  
+### <div align="center">I'm Cihan, web3 business developer @Castrumistanbul  👨‍💻</div>  
 
-- 🌱 I’m currently learning Next.js  
+  I am always open to discussing new technologies, potential collaborations, or any innovative ideas. 
+  Let's connect and work together to create a better digital future.
+  To reach me and for my links visit: https://bento.me/cihanuygur
   
 
 <br/>  
@@ -46,7 +47,7 @@
 <a href="https://github.com/cuygur" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/kriptoleo" target="_blank">
+<a href="https://x.com/cihanu_eth" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/cihanuygur" target="_blank">
