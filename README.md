@@ -1,12 +1,13 @@
-### <div align="center">I'm Cihan, web3 business developer @Castrumistanbul  👨‍💻</div>  
+### <div align="center">I'm Cihan, web3 business developer at Castrum Istanbul 👨‍💻 </div>  
 
-  I am always open to discussing new technologies, potential collaborations, or any innovative ideas. 
+  <div align="center">I'm always open to discussing new technologies, potential collaborations, or any innovative ideas. 
   Let's connect and work together to create a better digital future.
-  To reach me and for my links visit: https://bento.me/cihanuygur
+  </div>  
+
+  <div align="center"> To reach me and for my links visit: https://bento.me/cihanuygur 
+  </div>
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
