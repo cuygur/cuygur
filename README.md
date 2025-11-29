@@ -4,7 +4,7 @@
   </div>  
   <div align="center">Let's connect and work together to create a better digital future!
   </div>
-  <div align="center">To reach me and for my links visit: link3.to/cihan 
+  <div align="center">To reach me and for my links visit: www.link3.to/cihan 
   </div>
   
 <br/>  
